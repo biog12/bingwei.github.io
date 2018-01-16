@@ -1,0 +1,14 @@
+  var READTHEDOCS_DATA = {
+    project: "pythonguidecn",
+    version: "latest",
+    language: "zh",
+    subprojects: {},
+    canonical_url: "http://pythonguidecn.readthedocs.io/zh/latest/",
+    theme: "alabaster",
+    builder: "sphinx",
+    docroot: "/docs/",
+    source_suffix: ".rst",
+    api_host: "https://readthedocs.org",
+    commit: "9794f02f"
+  };
+  
